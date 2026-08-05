@@ -266,9 +266,14 @@
      <rect>
       <x>300</x>
       <y>6</y>
-      <width>131</width>
-      <height>31</height>
+      <width>201</width>
+      <height>51</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>36</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Шмотки</string>
@@ -279,9 +284,14 @@
      <rect>
       <x>570</x>
       <y>10</y>
-      <width>131</width>
-      <height>31</height>
+      <width>181</width>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>36</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Шарды</string>
@@ -292,9 +302,14 @@
      <rect>
       <x>40</x>
       <y>60</y>
-      <width>131</width>
+      <width>141</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>24</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Зеленые</string>
@@ -304,10 +319,15 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>130</y>
+      <y>120</y>
       <width>131</width>
-      <height>31</height>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>24</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Синии</string>
@@ -317,10 +337,15 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>200</y>
+      <y>190</y>
       <width>131</width>
-      <height>31</height>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>24</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Фиолки</string>
@@ -330,13 +355,36 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>280</y>
+      <y>270</y>
       <width>131</width>
-      <height>31</height>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>24</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Леги</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>430</y>
+      <width>141</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>36</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Голда</string>
     </property>
    </widget>
   </widget>
